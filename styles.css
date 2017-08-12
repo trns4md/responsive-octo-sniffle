@@ -1,0 +1,48 @@
+
+
+header li{
+    float: left;
+    display: table;
+    padding: .7rem;
+    width: 48px;
+    height: 48px;
+}
+header ul{
+    background-color: #808080;
+}
+
+body{
+    background-color: #E1E1D6;
+    font-size:100%;
+}
+h1 {
+    background-color: #004489;
+    color: white;
+}
+main{
+    clear: both;
+    /* font-size: 16px; */
+    /* height: 1.2em; */
+    width: 100%;
+}
+h2{
+    background-color: #004489;
+    color: white;
+}
+#name{
+    margin-left: 60px;
+}
+#address{
+    margin-left: 45px;
+}
+
+footer{
+    clear: both;
+    background-color: #004489;
+    color: white; 
+}
+
+}
+img{
+    max-width: 50%;
+}
